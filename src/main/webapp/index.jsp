@@ -12,7 +12,7 @@
 </head>
 <body>
 <h1>Welcome to PMC BANK</h1>
-<p>This is a sample Welcome to PMC BANK application by my first automation .</p>
+<p>This is a sample application to PMC Bank my first automation .</p>
 </body>
 </html>
 
