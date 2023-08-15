@@ -6,13 +6,13 @@
 <title>Welcome to PMC BANK</title>
 <style>
   body {
-    background-color: red;
+    background-color: teal;
   }
 </style>
 </head>
 <body>
-<h1>Welcome to HDFCSA BANK</h1>
-<p>This is a sample Welcome to HDFCSA BANK application for 2023 July Morrning Batch.</p>
+<h1>Welcome to PMC BANK</h1>
+<p>This is a sample Welcome to PMC BANK application by my first automation .</p>
 </body>
 </html>
 
