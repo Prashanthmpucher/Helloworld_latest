@@ -6,7 +6,7 @@
 <title>Welcome to PMC BANK</title>
 <style>
   body {
-    background-color: yellow;
+    background-color: teal;
   }
 </style>
 </head>
